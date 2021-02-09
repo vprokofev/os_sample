@@ -1,5 +1,5 @@
-how to run:
-source credentials-openrc
+how to run:<br>
+source credentials-openrc<br>
 ./openstack_sample.py
 
 what it does:
@@ -10,7 +10,7 @@ what it does:
  - launches 3 instances with specified image and flavor;
  - attaches 1 cinder volume to each instance.
 
-You can select image and flavor by specifying their number as <int>.
+You can select image and flavor by specifying their number as \<int\>.
 You have to specify external network UUID.
 
 No input testing was performed whatsoever. Use at your own risk!
